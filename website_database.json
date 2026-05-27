@@ -1,0 +1,61 @@
+{
+    "github.com": {
+        "category": "coding",
+        "score": 100
+    },
+
+    "stackoverflow.com": {
+        "category": "coding",
+        "score": 95
+    },
+
+    "chat.openai.com": {
+        "category": "learning",
+        "score": 90
+    },
+
+    "wikipedia.org": {
+        "category": "study",
+        "score": 95
+    },
+
+    "coursera.org": {
+        "category": "study",
+        "score": 95
+    },
+
+    "udemy.com": {
+        "category": "study",
+        "score": 90
+    },
+
+    "youtube.com": {
+        "category": "mixed",
+        "score": 50
+    },
+
+    "instagram.com": {
+        "category": "distraction",
+        "score": 5
+    },
+
+    "facebook.com": {
+        "category": "distraction",
+        "score": 10
+    },
+
+    "netflix.com": {
+        "category": "entertainment",
+        "score": 10
+    },
+
+    "reddit.com": {
+        "category": "mixed",
+        "score": 40
+    },
+
+    "discord.com": {
+        "category": "mixed",
+        "score": 40
+    }
+}

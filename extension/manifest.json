@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+
+  "name": "AMFOCUSED AI",
+
+  "version": "1.0",
+
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "scripting",
+    "notifications"
+  ],
+
+  "host_permissions": [
+    "<all_urls>"
+  ],
+
+  "background": {
+    "service_worker": "background.js"
+  }
+}

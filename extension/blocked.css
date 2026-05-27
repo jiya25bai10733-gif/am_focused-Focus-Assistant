@@ -1,0 +1,35 @@
+body {
+
+    background: #111;
+
+    color: white;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    height: 100vh;
+
+    margin: 0;
+
+    font-family: Arial;
+}
+
+.container {
+
+    text-align: center;
+}
+
+h1 {
+
+    color: red;
+
+    font-size: 50px;
+}
+
+p {
+
+    font-size: 24px;
+}

@@ -221,39 +221,6 @@ AMFOCUSED/extension
 
 ---
 
-# 🧠 AI Website Database
-
-Edit:
-
-```text
-website_database.json
-```
-
-Example:
-
-```json
-{
-    "github.com": {
-        "category": "productive",
-        "score": 100
-    },
-
-    "instagram.com": {
-        "category": "distraction",
-        "score": 5
-    },
-
-    "youtube.com": {
-        "category": "mixed",
-        "score": 50
-    }
-}
-```
-
-Higher score = more productive.
-
----
-
 # 📺 YouTube AI Detection
 
 AMFOCUSED blocks videos containing keywords like:

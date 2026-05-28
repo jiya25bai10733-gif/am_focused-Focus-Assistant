@@ -118,13 +118,13 @@ Recommended:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/jiya25bai10733-gif/am_focused
+git clone https://github.com/jiya25bai10733-gif/am_focused-Focus-Assistant
 ```
 
 Enter project folder:
 
 ```bash
-cd am_focused
+cd am_focused-Focus-Assistant
 ```
 
 ---

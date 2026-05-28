@@ -216,7 +216,7 @@ Load unpacked
 Select:
 
 ```text
-AMFOCUSED/extension
+am_focused-Focus-Assistant/extension
 ```
 
 ---
